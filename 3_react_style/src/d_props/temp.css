@@ -1,0 +1,21 @@
+
+.Dialog-title {
+  height: 40vmin;
+  pointer-events: none;
+  color: aquamarine;
+}
+
+.FancyBorder {
+  background-color: #0e7a5f;
+  min-height: 30vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(198, 240, 205);
+}
+
+.Dialog-message {
+  color: whitesmoke;
+}
